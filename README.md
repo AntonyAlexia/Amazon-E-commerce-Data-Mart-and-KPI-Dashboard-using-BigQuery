@@ -1,5 +1,6 @@
 # Amazon-E-commerce-Data-Mart-and-KPI-Dashboard-using-BigQuery
 
+# https://console.cloud.google.com/bigquery?sq=1048965685549:a097196dfddc423f981017f2e0da79d6
 # 📌 Project Overview
 In this project, I built a full-scale E-commerce analytics Data Mart using Google BigQuery based on Amazon sales data.
 The goal is to create a professional-grade star schema, enable complex business analysis through clean dimensions and fact tables, and generate business KPIs such as revenue trends and best-selling locations.
